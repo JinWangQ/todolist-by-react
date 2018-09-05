@@ -6,11 +6,11 @@ class TodoItem extends Component {
 
 	constructor(props) {
 		super(props);
-		this.handleDelete = this.handleDelete.bind(this);
+		this.handleFinished = this.handleFinished.bind(this);
 
 	}
 
-	handleDelete() {
+	handleFinished() {
 		const {
 			deleteItem,
 			index
@@ -22,7 +22,7 @@ class TodoItem extends Component {
 		const {
 			content
 		} = this.props;
-		return (<div onClick={this.handleDelete}>{"✐ " + content}</div>)
+		return (<div onClick={this.handleFinished}>{"✐ " + content}</div>)
 	}
 }
 
