@@ -116,12 +116,12 @@ class TodoList extends Component {
         </div>
 
         <div className="listArea">
-          <span>To do:</span>
+          <span>To do:(click task to mark as Complete)</span>
           <ul>{this.getTodoItem()}</ul>
         </div>
 
         <div className="deleteArea">
-          <span>Complete:</span>
+          <span>Done:(click to delete task)</span>
           <ul>{this.getDeleteTodoItem()}</ul>
         </div>
       </Fragment>
