@@ -29,7 +29,7 @@ __Try it on a mobile phone ; )__
 ---
 ### Key point
 
-1.  a tiny project built by create-react-app
+1.  a tiny project built by [create-react-app](https://github.com/facebook/create-react-app)
 2.  Responsive Design
 3.  Bootstrap
 ---
