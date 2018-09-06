@@ -35,4 +35,4 @@ __Try it on a mobile phone ; )__
 ---
 ### Full page Screenshot APP: [Awesome Screenshot for Safari](https://itunes.apple.com/ca/app/awesome-screenshot-for-safari/id918780145?mt=8)
 ### Deploying GitHub Pages: [For create-react-app App](https://github.com/gitname/react-gh-pages)
-
+### Icon: [Iconfont](http://www.iconfont.cn/)
